@@ -15,8 +15,8 @@
 
 @import "_sass/sections/_about.scss";
 @import "_sass/sections/contact";
-@import "_sass/sections/hero";
+@import "_sass/sections/_hero.scss";
 @import "_sass/sections/projects";
-@import "_sass/sections/experience";
+@import "_sass/sections/_experience.scss";
 @import "_sass/sections/education";
 
