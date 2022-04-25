@@ -1,20 +1,20 @@
-@import "sass/vendors/bootstrap.scss";
+@import "achintyaacharya.github.io/sass/vendors/bootstrap.scss";
 
-@import "sass/abstracts/_mixins";
-@import "sass/abstracts/_variables";
-@import "sass/abstracts/_helpers";
+@import "achintyaacharya.github.io/sass/abstracts/_mixins";
+@import "achintyaacharya.github.io/sass/abstracts/_variables";
+@import "achintyaacharya.github.io/sass/abstracts/_helpers";
 
-@import "sass/base/_base";
-@import "sass/base/_typography";
+@import "achintyaacharya.github.io/sass/base/_base";
+@import "achintyaacharya.github.io/sass/base/_typography";
 
-@import "sass/components/_buttons";
+@import "achintyaacharya.github.io/sass/components/_buttons";
 
-@import "sass/layout/_footer";
-@import "sass/layout/_sections";
+@import "achintyaacharya.github.io/sass/layout/_footer";
+@import "achintyaacharya.github.io/sass/layout/_sections";
 
-@import "sass/sections/_about";
-@import "sass/sections/_contact";
-@import "sass/sections/_hero";
-@import "sass/sections/_projects";
-@import "sass/sections/_experience";
-@import "sass/sections/_education";
+@import "achintyaacharya.github.io/sass/sections/_about";
+@import "achintyaacharya.github.io/sass/sections/_contact";
+@import "achintyaacharya.github.io/sass/sections/_hero";
+@import "achintyaacharya.github.io/sass/sections/_projects";
+@import "achintyaacharya.github.io/sass/sections/_experience";
+@import "achintyaacharya.github.io/sass/sections/_education";
