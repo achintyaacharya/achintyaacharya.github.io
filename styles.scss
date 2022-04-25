@@ -1,20 +1,23 @@
-@import "sass/vendors/bootstrap.scss";
+---
+---
 
-@import "sass/abstracts/_mixins";
-@import "sass/abstracts/_variables";
-@import "sass/abstracts/_helpers";
+@import "vendors/bootstrap.scss";
 
-@import "sass/base/_base";
-@import "sass/base/_typography";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+@import "abstracts/helpers";
 
-@import "sass/components/_buttons";
+@import "sass/base/base";
+@import "sass/base/typography";
 
-@import "sass/layout/_footer";
-@import "sass/layout/_sections";
+@import "sass/components/buttons";
 
-@import "sass/sections/_about";
-@import "sass/sections/_contact";
-@import "sass/sections/_hero";
-@import "sass/sections/_projects";
-@import "sass/sections/_experience";
-@import "sass/sections/_education";
+@import "sass/layout/footer";
+@import "sass/layout/sections";
+
+@import "sass/sections/about";
+@import "sass/sections/contact";
+@import "sass/sections/hero";
+@import "sass/sections/projects";
+@import "sass/sections/experience";
+@import "sass/sections/education";
