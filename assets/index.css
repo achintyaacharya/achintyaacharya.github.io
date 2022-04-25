@@ -2,21 +2,21 @@
 @import "_sass/vendors/bootstrap.scss";
 
 @import "_sass/abstracts/_mixins.scss";
-@import "_sass/abstracts/variables";
+@import "_sass/abstracts/_variables.scss";
 @import "_sass/abstracts/_helpers.scss";
 
 @import "_sass/base/_base.scss";
-@import "_sass/base/_typography";
+@import "_sass/base/_typography.scss";
 
-@import "_sass/components/buttons";
+@import "_sass/components/_buttons.scss";
 
 @import "_sass/layout/_footer.scss";
-@import "_sass/layout/sections";
+@import "_sass/layout/_sections.scss";
 
 @import "_sass/sections/_about.scss";
-@import "_sass/sections/contact";
+@import "_sass/sections/_contact.scss";
 @import "_sass/sections/_hero.scss";
-@import "_sass/sections/projects";
+@import "_sass/sections/_projects.scss";
 @import "_sass/sections/_experience.scss";
-@import "_sass/sections/education";
+@import "_sass/sections/_education.scss";
 
