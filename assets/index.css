@@ -10,7 +10,7 @@
 
 @import "_sass/components/buttons";
 
-@import "_sass/layout/footer";
+@import "_sass/layout/_footer.scss";
 @import "_sass/layout/sections";
 
 @import "_sass/sections/about";
