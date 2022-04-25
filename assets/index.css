@@ -5,8 +5,8 @@
 @import "_sass/abstracts/variables";
 @import "_sass/abstracts/helpers";
 
-@import "_sass/base/_base";
-@import "_sass/base/-typography";
+@import "_sass/base/_base.scss";
+@import "_sass/base/_typography";
 
 @import "_sass/components/buttons";
 
