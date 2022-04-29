@@ -5,6 +5,8 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "index.html",
   "scripts": {
+	"predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
     "start": "parcel",
     "build": "parcel build"
   },
@@ -21,6 +23,7 @@
   "homepage": "https://github.com/achintyaacharya/achintyaacharya.github.io",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
+    "gh-pages": "^3.2.3",
     "parcel": "^2.0.1",
     "prettier": "^2.4.1"
   },
